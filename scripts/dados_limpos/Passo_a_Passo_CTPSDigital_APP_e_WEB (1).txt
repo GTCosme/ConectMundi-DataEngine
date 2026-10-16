@@ -1,0 +1,888 @@
+0 | Atualizado em 07/02/2023 
+ 
+ 
+0 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+Sumário 
+ 
+CONFIRA O PASSO A PASSO PARA ACESSAR A CARTEIRA DE TRABALHO DIGITAL POR MEIO DE DISPOSITIVOS MÓVEIS.. 2 
+1 - FORMATO MOBILE ..................................................................................................................................................................................................... 2 
+1.1 - COMO BAIXAR.......................................................................................................................................................................................................... 2 
+2 - TELAS DE APRESENTAÇÃO.................................................................................................................................................................................... 3 
+3 – REALIZANDO O LOGIN ............................................................................................................................................................................................. 4 
+4 – CRIAÇÃO DE CONTA GOV.BR ............................................................................................................................................................................... 4 
+5 – FORMAS DE CADASTRO NO GOV.BR ................................................................................................................................................................. 5 
+5.2 - Conta de acesso .............................................................................................................................................................................................. 5 
+5.3 - Cadastro por meio do Aplicativo gov.br ....................................................................................................................................................... 6 
+5.4 - Cadastro por meio dos Bancos Credenciados.......................................................................................................................................... 11 
+5.5 - Cadastro por meio do Internet Banking dos bancos conveniados ........................................................................................................ 14 
+5.6 - Cadastro com as informações básicas do cidadão.................................................................................................................................. 15 
+6 – ACESSANDO A CARTEIRA DE TRABALHO DIGITAL...................................................................................................................................... 18 
+7 – SERVIÇOS DO APLICATIVO.................................................................................................................................................................................. 18 
+7.2 – CONTRATOS DE TRABALHO E INFORMAÇÕES PESSOAIS .................................................................................................................... 19 
+7.3 – ÍCONES DO RODAPÉ DO APLICATIVO........................................................................................................................................................... 20 
+7.4 – AUMENTAR O NÍVEL DA CONTA GOV.BR ..................................................................................................................................................... 21 
+7.5 – ABA CONTRATOS DE TRABALHO ................................................................................................................................................................... 22 
+7.6 – ABA ENVIAR CARTEIRA DE TRABALHO ........................................................................................................................................................ 23 
+7.7 – ABA BENEFÍCIOS.................................................................................................................................................................................................. 24 
+7.8 – ABA MENU .............................................................................................................................................................................................................. 25 
+ 
+CONFIRA O PASSO A PASSO PARA ACESSAR A CARTEIRA DE TRABALHO DIGITAL PELA WEB ................................................... 26 
+8 - FORMATO WEB ......................................................................................................................................................................................................... 26 
+8.1 - COMO ACESSAR ................................................................................................................................................................................................... 26 
+9 – ACESSANDO A CARTEIRA DE TRABALHO DIGITAL PELA WEB ................................................................................................................ 27 
+10 – SERVIÇOS DO PORTAL ....................................................................................................................................................................................... 28 
+11 – ABA CONTRATOS DE TRABALHO .................................................................................................................................................................... 29 
+12 – AUMENTAR O NÍVEL DA CONTA GOV.BR ...................................................................................................................................................... 30 
+13 – BOTÃO IMPRIMIR CARTEIRA DE TRABALHO................................................................................................................................................ 31 
+14 – BENEFÍCIOS............................................................................................................................................................................................................ 32 
+15 - LINKS IMPORTANTES ........................................................................................................................................................................................... 34 
+ 
+ 
+ 
+ 
+ 
+ 
+1 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Carteira de Trabalho e Previdência Social (CTPS) é o documento que registra a vida profissional do 
+trabalhador e garante o acesso aos direitos trabalhistas previstos em lei. 
+ 
+O aplicativo Carteira de Trabalho Digital poderá ser acessado através das principais lojas de Apps e pela Web. 
+ 
+ 
+ 
+2 | Atualizado em 07/02/2023 
+ 
+CONFIRA O PASSO A PASSO PARA ACESSAR A CARTEIRA DE TRABALHO DIGITAL POR MEIO DE DISPOSITIVOS MÓVEIS 
+ 
+No aplicativo móbile, desenvolvido pelo Ministério do Trabalho e Emprego, o(a) trabalhador(a) brasileiro(a) e estrangeiro(a) poderá ter 
+acesso às informações de Qualificação Civil, Contratos de Trabalho, Benefícios de Seguro Desemprego, Abono Salarial e de Benefícios 
+Emergenciais. 
+ 
+1 - FORMATO MOBILE 
+ 
+ 
+ 
+ 
+1.1 - COMO BAIXAR 
+ 
+Para ter o documento digital, com todas as informações acessíveis no telefone, o(a) trabalhador(a) deverá entrar nas lojas de aplicativos 
+de seu Smartfone (Android ou IOS), procurar por Carteira de Trabalho Digital e baixar o aplicativo. 
+ 
+ 
+ 
+3 | Atualizado em 07/02/2023 
+ 
+ 
+2 - TELAS DE APRESENTAÇÃO 
+ 
+2.1 – Após instalação e primeiro acesso, as telas informativas a seguir aparecerão somente no momento deste primeiro acesso, leia 
+atentamente e clique no botão próximo, sendo possível também pular todas as telas. 
+ 
+ 
+ 
+ 
+2.2 – Na última tela, irá aparecer a opção do botão Entrar com o gov.br. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 | Atualizado em 07/02/2023 
+ 
+3 – REALIZANDO O LOGIN 
+ 
+3.1 – Ao clicar no botão Entrar com o gov.br, nas telas seguintes será necessário primeiro digitar o seu CPF, quem já tiver realizado o 
+cadastro no gov.br, por exemplo, já utilizou algum dos serviços digitais como: INSS, ConectSus, Carteira Digital de Transito, ao digitar o 
+CPF e clicar em Continuar, já será redirecionado para digitar sua senha. 
+ 
+ 
+ 
+4 – CRIAÇÃO DE CONTA GOV.BR 
+ 
+4.1 - Caso você não tenha cadastro, o sistema redirecionará para criação da sua conta no gov.br, é só seguir as telas, são várias opções 
+de criar uma conta no gov.br, caso a opção apresentada não te atenda, no final da página tem a opção de tentar de outra forma, é bem 
+simples e intuitivo. 
+ 
+ 
+ 
+ 
+ 
+ 
+5 | Atualizado em 07/02/2023 
+ 
+ 
+5 – FORMAS DE CADASTRO NO GOV.BR 
+ 
+5.1 - Existem diversas formas para realizar o cadastro no Login Único, abaixo o passo a passo das diversas formas para realizar o 
+cadastro no Login Único do Gov.br: 
+ 
+Cadastro com as informações básicas do cidadão; Cadastro por meio do Internet Banking do Banco do Brasil; Cadastro por meio do 
+Internet Banking dos bancos conveniados; Validação Facial no App Meu gov.br; Cadastro com o certificado de pessoa física do cidadão; 
+e Cadastro por meio do Certificado em Nuvem. 
+ 
+5.2 - Conta de acesso 
+Para criar uma conta de acesso, digite o CPF na tela inicial em https://acesso.gov.br e clique no botão Continuar 
+ 
+ 
+ 
+Selecione as opções de Termo de Uso, Não sou robô e clique no botão Continuar 
+ 
+ 
+ 
+Existem diversas formas para realizar o cadastro. O autenticador disponibilizará melhor e mais segura forma para realizar o c adastro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 | Atualizado em 07/02/2023 
+ 
+ 
+5.3 - Cadastro por meio do Aplicativo gov.br 
+ 
+• 
+Clique no botão Gerar QR CODE 
+ 
+ 
+ 
+• 
+O QR-CODE para criação da conta será apresentado em tela. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 | Atualizado em 07/02/2023 
+ 
+ 
+• 
+Abra o aplicativo gov.br e clique no botão Ler QR Code 
+ 
+ 
+ 
+• 
+Aponte o celular para tela do computador com intuito de ler o QR-CODE 
+ 
+ 
+ 
+8 | Atualizado em 07/02/2023 
+ 
+ 
+• 
+Clique no botão Fazer Reconhecimento Facial. 
+ 
+ 
+ 
+ 
+• 
+Posicionar o rosto de frente para câmera celular, clique no botão azul com figura de câmera e siga as orientações de piscar os 
+olhos e sorrir até sistema validar as informações. 
+ 
+ 
+ 
+ 
+ 
+9 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+• 
+Clique no botão OK e continue o processo no computador 
+ 
+ 
+ 
+ 
+• 
+Confirme as informações de CPF e NOME e clique no botão Continuar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 | Atualizado em 07/02/2023 
+ 
+ 
+• 
+Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique 
+no botão Continuar. 
+ 
+ 
+ 
+ 
+ 
+• 
+Digite o código de acesso e clique no botão Continuar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+• 
+Preencha com senha escolhida e clique no botão Continuar para finalizar o cadastro. 
+ 
+ 
+ 
+5.4 - Cadastro por meio dos Bancos Credenciados 
+ 
+• 
+Tenha em mãos as informações do banco credenciado deseja utilizar. 
+• 
+Clique na imagem do banco credenciado desejado para cadastrar a conta. 
+ 
+ 
+ 
+ 
+• 
+Siga as orientações do banco credenciado desejado para cadastrar a conta. 
+ 
+ 
+12 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+• 
+Confirme as informações de CPF e NOME e clique no botão Continuar 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique 
+no botão Continuar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+ 
+ 
+• 
+Digite o código de acesso e clique no botão Continuar 
+ 
+ 
+ 
+ 
+ 
+• 
+Preencha com senha escolhida e clique no botão Continuar para finalizar o cadastro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+5.5 - Cadastro por meio do Internet Banking dos bancos conveniados 
+ 
+• 
+Existem alguns bancos conveniados para permitir a criação da conta por meio da geração de uma senha temporária. A senha deverá 
+ser trocada no primeiro acesso. Para isso, acesse o passo a passo de cada banco presente no link acesse o passo a passo de cada 
+banco. 
+• 
+De posse da senha temporária, retorne tela inicial, digite o CPF e clique no botão Proxima. Existem senhas temporárias que precisam 
+de 24h a 48h para ativação pelos bancos. 
+ 
+ 
+ 
+ 
+ 
+• 
+Digite senha temporária, senha definitiva e marque opção Não sou robô. Após, clique no botão Concluir para criação da conta 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 | Atualizado em 07/02/2023 
+ 
+ 
+5.6 - Cadastro com as informações básicas do cidadão 
+ 
+• 
+Responda as perguntas relacionadas às suas informações pessoais. Clique no botão Continuar. 
+ 
+ 
+ 
+ 
+ 
+• 
+Confirme as informações de CPF e NOME e clique no botão Continuar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+• 
+Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique 
+no botão Continuar. 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Digite o código de acesso e clique no botão Continuar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+ 
+• 
+Preencha com senha escolhida e clique no botão Continuar para finalizar o cadastro. 
+ 
+ 
+ 
+ 
+ 
+5.7 - Informamos que as informações acima de cadastro no gov.br foram extraídas da FAQ do gov.br, desta forma, caso tenha alguma 
+dúvida com relação ao login único do Gov.br, 
+poderá obter maiores informações no link: 
+https://faq-login-
+unico.servicos.gov.br/en/latest/_perguntasdafaq/contaacesso.html 
+ 
+ 
+ 
+ 
+18 | Atualizado em 07/02/2023 
+ 
+6 – ACESSANDO A CARTEIRA DE TRABALHO DIGITAL 
+ 
+6.1 - Após este procedimento de criação de senha no gov.br, acesse novamente o aplicativo, clique em Entrar com gov.br, digite seu 
+“CPF” e a senha cadastrada, e clique em Continuar. 
+ 
+ 
+ 
+ 
+7 – SERVIÇOS DO APLICATIVO 
+ 
+7.1 - Em seguida você acessará as telas da sua Carteira de Trabalho Digital, sendo elas: tela principal contendo as três últimas 
+movimentações de seus vínculos, botão para detalhamento dos contratos de trabalho, botão para gerar pdf com todos os contratos, dados 
+pessoais da base de dados do Cadastro de Pessoa Física – CPF e banner contendo informações ao trabalhador. 
+ 
+ 
+19 | Atualizado em 07/02/2023 
+ 
+ 
+7.2 – CONTRATOS DE TRABALHO E INFORMAÇÕES PESSOAIS 
+ 
+7.2.1 – Através do botão 
+, você será poderá detalhar seus dados de qualificação civil referente à base de dados do Cadastro 
+de Pessoa Física – CPF e a data de emissão de sua Carteira de Trabalho Digital. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 | Atualizado em 07/02/2023 
+ 
+7.3 – ÍCONES DO RODAPÉ DO APLICATIVO 
+ 
+7.3.1 - No rodapé do aplicativo há 4 ícones, conforme tela a seguir: 
+ 
+ 
+ 
+ - O primeiro ícone, corresponde a primeira tela contendo as três últimas movimentações de seus vínculos, botão para 
+detalhamento dos contratos de trabalho, botão para gerar pdf com todos os contratos, dados pessoais da base de dados do 
+Cadastro de Pessoa Física – CPF e banner contendo informações ao trabalhador. 
+ 
+- O segundo ícone corresponde a Aba de Benefícios, contendo serviços de: Seguro Desemprego, Benefício Emergencial e 
+Abono Salarial. 
+- O terceiro ícone corresponde a Aba de Notificações, você será avisado de qualquer movimentação em seu contrato de trabalho 
+e outros avisos que o Ministério do Trabalho e Emprego possa encaminhar. 
+ 
+- O quarto ícone corresponde a Menu, onde constam toda a lista de serviços disponíveis no app, a Política de Privacidade, 
+Perguntas Frequentes, Telefone do Alô Trabalho, Avaliação do Aplicativo e botão Sair. 
+ 
+ 
+ 
+ 
+ 
+21 | Atualizado em 07/02/2023 
+ 
+7.4 – AUMENTAR O NÍVEL DA CONTA GOV.BR 
+ 
+7.4.1 – Ao clicar no ícone destacado na imagem a seguir, de Contratos de Trabalho e Benefícios caso você tenha realizado apenas o 
+cadastro básico do gov.br, será necessário aumentar o nível de sua conta, você será redirecionado a escolher entre responder as 
+perguntas sobre sua vida laboral ou realizar a validação facial pelo app do gov.br, caso você não tenha o app do gov.br, você terá que 
+baixa-lo. 
+ 
+O gov.br disponibilizou um vídeo explicativo do processo de como aumentar o nível da conta GOV.BR com reconhecimento facial? 
+https://www.youtube.com/watch?v=J14IzHDzER8 
+ 
+Caso você tenha sucesso no aumento de nível da conta, você deverá acessar o aplicativo novamente, agora com todas as funcionalidades 
+habilitadas. 
+ 
+ 
+ 
+ 
+ 
+Outras dúvidas com relação ao login único do Gov.br, de como Obter Mais confiabilidade na Conta de Acesso, você poderá obter 
+maiores informações no link: https://faq-login-
+unico.servicos.gov.br/en/latest/_perguntasdafaq/obtermaisconfiabilidadenacontadeacesso.html 
+ 
+ 
+ 
+ 
+ 
+22 | Atualizado em 07/02/2023 
+ 
+ 
+7.5 – ABA CONTRATOS DE TRABALHO 
+ 
+7.5.1 - Ao clicar no ícone em destaque abaixo, Contratos de Trabalho você poderá ter acesso ao detalhamento dos vínculos, contendo 
+Anotações, Observações e Gráficos sobre sua vida laboral. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 | Atualizado em 07/02/2023 
+ 
+ 
+7.6 – ABA ENVIAR CARTEIRA DE TRABALHO 
+ 
+7.6.1 - Ao clicar no ícone em destaque referente a Enviar Carteira de Trabalho, você poderá exportar os dados de contratos de trabalho 
+em formato PDF, nesta aba você poderá enviar uma cópia de sua Carteira de Trabalho, comprovando suas experiências profissionais, 
+bem como guardá-la em arquivo PDF, enviar através de e-mail, pelo seu celular ou no seu computador podendo até imprimir. 
+ 
+ 
+ 
+ 
+ 
+7.6.2 – Na tela seguinte você poderá exportar toda a sua CTPS ou partes dela, selecione as opções que deseja compartilhar e clique no 
+ícone 
+ e posteriormente clique em compartilhar. 
+ 
+ 
+ 
+24 | Atualizado em 07/02/2023 
+ 
+ 
+7.7 – ABA BENEFÍCIOS 
+ 
+7.7.1 - Ao clicar no ícone
+em destaque, referente a Benefícios, você poderá Consultar e Solicitar o Seguro Desemprego, 
+Consultar dados do Benefício Emergencial e Consultar o Calendário e disponibilidade de pagamento do Abono Salarial. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 | Atualizado em 07/02/2023 
+ 
+ 
+7.8 – ABA MENU 
+ 
+7.8.1 - Ao clicar no ícone 
+em destaque referente a Menu você poderá acessar a lista de todos os serviços disponíveis no app, 
+bem como a POLÍTICA DE PRIVACIDADE, PERGUNTAS FREQUENTES, AVALIAÇÃO DO APLICATIVO, TELEFONE DO ALÔ 
+TRABALHO e opção para SAIR. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 | Atualizado em 07/02/2023 
+ 
+CONFIRA O PASSO A PASSO PARA ACESSAR A CARTEIRA DE TRABALHO DIGITAL PELA WEB 
+ 
+8 - FORMATO WEB 
+ 
+8.1 - COMO ACESSAR 
+ 
+8.1.1 - Para ter acesso a Carteira de Trabalho Digital através da Web, você poderá acessar o serviço pelo portal gov.br, por meio do 
+endereço eletrônico https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho, clicando no botão Iniciar. 
+ 
+ 
+ 
+8.1.2 – Você será redirecionado ao portal de serviços do Ministério do Trabalho e Emprego, no endereço eletrônico 
+https://servicos.mte.gov.br, conforme destacado na imagem a seguir, é só clicar no botão Entrar com gov.br, e seguir o mesmo passo 
+a passo do item 3 ou 4 deste manual, caso encontre dificuldades para realizar o login. 
+ 
+ 
+ 
+27 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+9 – ACESSANDO A CARTEIRA DE TRABALHO DIGITAL PELA WEB 
+ 
+9.1 - Após este procedimento de criação de senha no gov.br, caso você não tenha cadastro, acesse novamente o endereço eletrônico 
+https://servicos.mte.gov.br, clique em Entrar com gov.br, digite seu “CPF” e a senha cadastrada, e clique em Continuar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 | Atualizado em 07/02/2023 
+ 
+10 – SERVIÇOS DO PORTAL 
+ 
+10.1 - Em seguida será apresentado vários serviços, é só clicar no card Carteira de Trabalho Digital, é só clicar nele. 
+ 
+ 
+10.2 – Ao acessar o card Carteira de Trabalho Digital, será possível você ter acesso às informações dos dados pessoais da base de 
+dados do Cadastro de Pessoa Física – CPF, as três últimas movimentações de seus vínculos, lista dos contratos de trabalho com opção 
+para detalhar cada contrato e botão para gerar pdf com todos os contratos. 
+ 
+ 
+ 
+29 | Atualizado em 07/02/2023 
+ 
+ 
+11 – ABA CONTRATOS DE TRABALHO 
+11.1 - Ao clicar no ícone 
+,você poderá ter acesso ao detalhamento dos vínculos, contendo, Anotações, Observações e Gráficos 
+sobre sua vida laboral. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 | Atualizado em 07/02/2023 
+ 
+12 – AUMENTAR O NÍVEL DA CONTA GOV.BR 
+ 
+12.1 – Caso você não consiga visualizar o detalhamento de seus contratos conforme imagem a seguir, provavelmente será necessário 
+aumentar o nível de sua conta, você será redirecionado a escolher entre responder as perguntas sobre sua vida laboral ou realizar a 
+validação facial pelo app do gov.br, caso você não tenha o app do gov.br, você terá que baixa-lo. 
+ 
+ 
+ 
+Caso você tenha sucesso no aumento de nível da conta, você deverá acessar o endereço eletrônico https://servicos.mte.gov.br, estando 
+habilitada todas as funcionalidades do app. 
+ 
+ 
+Outras dúvidas com relação ao login único do Gov.br, para Obter Mais confiabilidade na Conta de Acesso, você poderá obter maiores 
+informações no link: https://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/obtermaisconfiabilidadenacontadeacesso.html 
+ 
+O gov.br disponibilizou um vídeo explicativo do processo de como aumentar o nível da conta GOV.BR com reconhecimento facial? 
+https://www.youtube.com/watch?v=J14IzHDzER8 
+ 
+ 
+ 
+31 | Atualizado em 07/02/2023 
+ 
+13 – BOTÃO IMPRIMIR CARTEIRA DE TRABALHO 
+ 
+13.1 - Ao clicar no ícone em destaque referente a Imprimir Carteira você poderá gerar os dados de contratos de trabalho em formato 
+PDF, podendo baixar e enviar uma cópia de sua CTPS, comprovando suas experiências profissionais. 
+ 
+ 
+ 
+ 
+13.1.2 - Nesta aba você poderá imprimir toda a sua CTPS ou partes dela, selecione as opções que deseja imprimir e clique no ícone 
+, seus contratos serão gerador em arquivo no formato em pdf. 
+ 
+ 
+ 
+ 
+32 | Atualizado em 07/02/2023 
+ 
+ 
+14 – BENEFÍCIOS 
+ 
+14.1 - Ao clicar no card Seguro Desemprego em destaque, você poderá Consultar e Solicitar o Seguro Desemprego. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33 | Atualizado em 07/02/2023 
+ 
+ 
+14.2 - Ao clicar no card Abono Salarial em destaque, você poderá Consultar o calendário do abono e verificar se você tem direito ao 
+benefício. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34 | Atualizado em 07/02/2023 
+ 
+ 
+15 - LINKS IMPORTANTES 
+ 
+https://www.gov.br/trabalho-e-previdencia/pt-br/servicos/trabalhador/carteira-de-trabalho 
+Acesso a Estatísticas, Legislação e Perguntas Frequentes. 
+ 
+https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital 
+Acesso ao link de Obter a Carteira de Trabalho e endereço para as lojas de apps. 
+ 
+https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego 
+Solicitar o Seguro-Desemprego (SD) 
+ 
+https://www.gov.br/pt-br/temas/perguntas-frequentes-seguro-desemprego 
+Perguntas frequentes do Seguro-Desemprego 
+ 
+https://www.gov.br/pt-br/servicos/receber-o-abono-salarial 
+Abono Salarial 
+ 
+https://faq-login-unico.servicos.gov.br/en/latest/index.html 
+Dúvidas Frequentes da Conta gov.br. 
+ 
+https://www.youtube.com/@DigitalGOVBR 
+Vídeos com informação de como recuperar a senha de sua conta gov.br, como aumentar o nível da conta gov.br e outros vídeos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35 | Atualizado em 07/02/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretaria de Proteção ao Trabalhador 
+Departamento de Gestão de Benefícios 
+Coordenação-Geral de Gestão de Benefícios 
+Coordenação de Identificação e Registro Profissional - CIRP

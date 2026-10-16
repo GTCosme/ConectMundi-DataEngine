@@ -1,0 +1,15 @@
+# Ambiente Virtual e Cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Configurações de IDE (PyCharm / VS Code)
+.idea/
+.vscode/
+
+# Banco Vetorial Local (ChromaDB)
+chromadb_local/
+
+# Ficheiros do DVC se gerenciados localmente
+.dvc/cache/
